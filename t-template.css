@@ -5,10 +5,10 @@
     --primary_font: 'Syne', sans-serif;
     --secondary_font: 'Sora', sans-serif;
     /* color */
-    --primary_color: #FF6600;
-    --secondary_color: #04042B;
+    --primary_color: #00D4FF;
+    --secondary_color: #001014;
     --default_color: #FFFFFF;
-    --primary_text_color: #F0F0F0;
+    --primary_text_color: #ebfcff;
     --secondary_text_color: rgba(18, 24, 32, 0.40);
     
     /* text shade */
@@ -801,11 +801,11 @@ blog section end */
 }
 #scrollBtn a i {
     background: var(--primary_color);
-    font-size: 15px;
+    font-size: 16px;
     color: var(--secondary_color);
     border-radius: 4px;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     position: fixed;
     z-index: 9999;
     bottom: 5%;
